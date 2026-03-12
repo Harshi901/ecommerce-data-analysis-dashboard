@@ -23,7 +23,14 @@ This project presents an Excel-based dashboard analyzing e-commerce order data t
 - Payment method analysis
 - Category-wise total orders
 - Top cities by item count
-- Company-wise total orders
+
+- ## Business Insights
+- Certain delivery companies show higher average delivery time compared to others, indicating potential operational inefficiencies.
+- Customers aged between 18–37 appear to receive higher discounts, suggesting targeted promotional strategies.
+- Digital payment methods such as UPI and credit cards are used more frequently than cash on delivery.
+- Some product categories generate significantly higher order volumes, indicating strong customer demand.
+- A few cities contribute the highest number of items ordered, showing geographical concentration of sales.
+- Companies like Flipkart Minutes and Swiggy Instamart handle a large share of total orders, reflecting strong market presence.wise total orders
 
 ## Dataset
 The raw dataset is included in this repository.
