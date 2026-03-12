@@ -38,6 +38,6 @@ quick_commerce_data_raw.zip
 
 The Excel dashboard file is large, so it is available here:
 
-[Download Dashboard](https://docs.google.com/spreadsheets/d/1apeyv2eS4rP8W7cdMmPLIzziY48T-vV5/edit?usp=sharing&ouid=106087853214610475008&rtpof=true&sd=true)
+[Download Dashboard]([Download Excel Dashboard](https://drive.google.com/file/d/1apeyv2eS4rP8W7cdMmpLlzzlyY48T-VV5/view?usp=sharing))
 
 
